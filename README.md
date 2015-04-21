@@ -152,7 +152,6 @@ people who know more about the web than I.
 * [cdnjs](https://cdnjs.com/) - you'll probably find that javascript plugin that you use is also hosted here.
 * [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
 * [nylllon](http://nylllon.com/) - A collection of useful threads for designers. kinda like this repo.
-* [David Walsh](http://davidwalsh.name/) - This guy knows his stuff.
 * [stack overflow](http://stackoverflow.com/) - Stuck? get your questions answered here.
 * [screen sizes](http://screensiz.es/phone) - A list of screen sizes.
 * [screen queries](http://beta.screenqueri.es/) - a bit like chrome dev tools device emulation.
