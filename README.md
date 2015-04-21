@@ -1,5 +1,5 @@
-## Web-Design Resources
-####A collection of resources for web design
+## Web Design Resources
+####A collection of resources for all things web design. I created this list as a filsafe incase I lost my bookmarks. 
 
 ##### Testing
 
@@ -126,6 +126,8 @@ images you an use for free
 * [nylllon](http://nylllon.com/) - A collection of useful threads for designers. kinda like this repo.
 * [David Walsh](http://davidwalsh.name/) - This guy knows his stuff.
 * [stack overflow](http://stackoverflow.com/) - Stuck? get your questions answered here.
+* [screen sizes](http://screensiz.es/phone) - A list of screen sizes.
+* [screen queries](http://beta.screenqueri.es/) - a bit like chrome dev tools device emulation.
 * [lipsum](http://www.lipsum.com/) - dummy lorem ipsum text generator.
 * [lorempixel](http://lorempixel.com/) - placeholder images.
 * [Redacted font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting lorem ipsum text.
