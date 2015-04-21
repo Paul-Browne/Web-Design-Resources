@@ -101,7 +101,6 @@ places to get fonts, some free, some not free.
 * [fonts.com](http://www.fonts.com/)
 * [dafont](http://www.dafont.com/top.php?l[]=10&l[]=1)
 * [font space](http://www.fontspace.com/popular/fonts)
-* [icomoon](https://icomoon.io/) - create a custom iconfont by picking from loads of icon sets.
 * [typewolf](http://www.typewolf.com/) - A great showcase of fonts used in websites.
 
 ##### Stock photography
@@ -121,6 +120,32 @@ images you an use for free
 * [PXtoEM](http://pxtoem.com/) - convert your font size between pixels, em, percentages and points.
 * [colorhexa](http://www.colorhexa.com/) - rgb, hex, hsv color conversion.
 
+##### generator tools
+
+* [color thief](http://lokeshdhakar.com/projects/color-thief/) - color palette generator.
+* [pictaculous](http://www.pictaculous.com/) - color palette generator.
+* [adobe color](https://color.adobe.com/create/color-wheel/) - color palette generator.
+* [lipsum](http://www.lipsum.com/) - dummy lorem ipsum text generator.
+* [lorempixel](http://lorempixel.com/) - placeholder images.
+* [placekitten](https://placekitten.com/) - placeholder images - just kittens.
+* [placehold.it](http://placehold.it/) - solid color placeholder images with dimensions. 
+* [favicon html generator](http://realfavicongenerator.net/) - generate the html for favicons, apple touch icons, android icons, windows tiles and more.
+* [icomoon](https://icomoon.io/) - create a custom iconfont by picking from loads of icon sets.
+* [spritebox](http://www.spritebox.net/) - image sprite css generator.
+
+##### People
+
+people who know more about the web than I.
+
+* [Andy Osmani](http://addyosmani.com/blog/)
+* [Paul Irish](http://www.paulirish.com/)
+* [Nicolas Gallagher](http://nicolasgallagher.com/)
+* [David Walsh](http://davidwalsh.name/)
+* [Peter-Paul Koch](https://twitter.com/ppk)
+* [Todd Motto](http://toddmotto.com/)
+* [David DeSandro](http://desandro.com/)
+* [Scott Jehl](http://scottjehl.com/)
+
 ##### Other
 
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - the original boilerplate.
@@ -131,10 +156,7 @@ images you an use for free
 * [stack overflow](http://stackoverflow.com/) - Stuck? get your questions answered here.
 * [screen sizes](http://screensiz.es/phone) - A list of screen sizes.
 * [screen queries](http://beta.screenqueri.es/) - a bit like chrome dev tools device emulation.
-* [lipsum](http://www.lipsum.com/) - dummy lorem ipsum text generator.
-* [lorempixel](http://lorempixel.com/) - placeholder images.
 * [Redacted font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting lorem ipsum text.
-* [favicon html generator](http://realfavicongenerator.net/) - generate the html for favicons, apple touch icons, android icons, windows tiles and more.
 * [w3c validator](http://validator.w3.org/) - check to see if your site is valid.
 * [Evanto](http://market.envato.com/) - Lots and lots of resources, but you have to pay for them.
 * [chrome experiments](https://www.chromeexperiments.com/) - all kinds of funky stuff.
