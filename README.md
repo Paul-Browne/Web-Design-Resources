@@ -154,6 +154,7 @@ people who know more about the web than I.
 ##### Other
 
 * [jpeg-optimizer](http://jpeg-optimizer.com/) - compress and/or shrink jpegs.
+* [tinypng](https://tinypng.com/) - same as above but for .png's
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - the original boilerplate.
 * [cdnjs](https://cdnjs.com/) - you'll probably find that javascript plugin that you use is also hosted here.
 * [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
