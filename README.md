@@ -1,7 +1,7 @@
 ## Web Design Resources
 ####A collection of resources for all things web design. I created this list as a failsafe incase I lost my bookmarks. 
 
-##### Testing
+##### Testing - performance
 
 Test the performance of you site.
 
@@ -9,14 +9,14 @@ Test the performance of you site.
 * [pingdom](http://tools.pingdom.com/fpt/)
 * [google pagespeed](https://developers.google.com/speed/pagespeed/insights/)
 
-Cross browser reference and testing
+##### Testing - cross browser
 
 * [can i use](http://caniuse.com/) - reference
 * [quirksmode](http://www.quirksmode.org/compatibility.html) - reference
-* [browserstack](http://www.browserstack.com/) -testing
-* [browsertap](http://browsertap.com/) -testing
-* [saucelabs](http://saucelabs.com/) -testing
-* [cross browser testing](http://crossbrowsertesting.com/) -testing
+* [browserstack](http://www.browserstack.com/)
+* [browsertap](http://browsertap.com/)
+* [saucelabs](http://saucelabs.com/)
+* [cross browser testing](http://crossbrowsertesting.com/)
 
 ##### Minify/Uglify and Beautify
 
