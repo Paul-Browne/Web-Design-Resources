@@ -1,5 +1,5 @@
 ## Web Design Resources
-####A collection of resources for all things web design. I created this list as a filsafe incase I lost my bookmarks. 
+####A collection of resources for all things web design. I created this list as a failsafe incase I lost my bookmarks. 
 
 ##### Testing
 
