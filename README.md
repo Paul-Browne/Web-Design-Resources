@@ -72,14 +72,33 @@ Articles and Resources (or links to resources), some graphic design stuff, News 
 * [web designer depot](http://www.webdesignerdepot.com/)
 * [1st web designer](http://www.1stwebdesigner.com/blog/)
 * [web design ledger](http://webdesignledger.com/)
+* [queness](http://www.queness.com/)
 
-##### Favicons
-
-* [favicon icon generator](http://www.favicon.cc/)
-* [favicon html generator](http://realfavicongenerator.net/)
 
 ##### Fonts
+
+places to get fonts, some free, some not free.
+
+* [google fonts](http://www.google.com/fonts)
+* [adobe typekit](https://typekit.com/)
+* [fontdeck](http://fontdeck.com/)
+* [webtype](http://www.webtype.com/)
+* [font squirrel](http://www.fontsquirrel.com/)
+* [my fonts](https://www.myfonts.com/)
+* [font spring](http://www.fontspring.com/)
+* [fonts.com](http://www.fonts.com/)
+* [dafont](http://www.dafont.com/top.php?l[]=10&l[]=1)
+* [font space](http://www.fontspace.com/popular/fonts)
+
 ##### Stock photography
-##### Forums
 ##### Other
-* Regex
+
+
+* [CDN](https://cdnjs.com/) - you'll probably find that javascript plugin that you use is also hosted here
+* [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
+* [nylllon](http://nylllon.com/) - A collection of useful threads for designers. kinda like this repo.
+* [David Walsh](http://davidwalsh.name/) - This guy knows his stuff
+* [stack overflow](http://stackoverflow.com/) - Stuck? get your questions answered here.
+* [favicon html generator](http://realfavicongenerator.net/) - generate the html for favicons, apple touch icons, android icons, windows tiles and more.
+* [Evanto](http://market.envato.com/) - Lots and lots of resources, but you have to pay for them.
+* [chrome experiments](https://www.chromeexperiments.com/) - all kinds of funky stuff.
