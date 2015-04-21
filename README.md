@@ -114,12 +114,15 @@ images you an use for free
 * [magdeleine](http://magdeleine.co/browse/)
 * [gratisography](http://www.gratisography.com/)
 
-##### Other
+##### Conversion
 
 * [b64.io](http://b64.io/) - image to base64 conversion.
 * [ezgif](http://ezgif.com/video-to-gif) - video to gif conversion.
 * [PXtoEM](http://pxtoem.com/) - convert your font size between pixels, em, percentages and points.
-* [colorhexa](http://www.colorhexa.com/) - rgb, hex, hsv color conversion
+* [colorhexa](http://www.colorhexa.com/) - rgb, hex, hsv color conversion.
+
+##### Other
+
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - the original boilerplate.
 * [cdnjs](https://cdnjs.com/) - you'll probably find that javascript plugin that you use is also hosted here.
 * [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
