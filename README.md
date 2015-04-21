@@ -105,7 +105,7 @@ places to get fonts, some free, some not free.
 
 ##### Stock photography
 
-images you an use for free
+images you can use for free
 
 * [the stocks](http://thestocks.im/)
 * [unsplash](https://unsplash.com/)
@@ -133,6 +133,10 @@ images you an use for free
 * [icomoon](https://icomoon.io/) - create a custom iconfont by picking from loads of icon sets.
 * [spritebox](http://www.spritebox.net/) - image sprite css generator.
 * [clippy](http://bennettfeely.com/clippy/) - clip path generator.
+* [css3factory](http://www.css3factory.com/linear-gradients/) - gradient generator (simple interface)
+* [colorzilla](http://www.colorzilla.com/gradient-editor/) - gradient generator (inc. radial grad.)
+* [gridpak](http://gridpak.com/) - css grid system generator.
+* [webfont-generator](http://www.fontsquirrel.com/tools/webfont-generator) - @fontface webfont generator.
 
 ##### People
 
@@ -156,6 +160,7 @@ people who know more about the web than I.
 * [stack overflow](http://stackoverflow.com/) - Stuck? get your questions answered here.
 * [screen sizes](http://screensiz.es/phone) - A list of screen sizes.
 * [screen queries](http://beta.screenqueri.es/) - a bit like chrome dev tools device emulation.
+* [webkit-filters](http://html5-demos.appspot.com/static/css/filters/index.html) - webkit filters playground.
 * [Redacted font](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting lorem ipsum text.
 * [w3c validator](http://validator.w3.org/) - check to see if your site is valid.
 * [Evanto](http://market.envato.com/) - Lots and lots of resources, but you have to pay for them.
