@@ -132,6 +132,7 @@ images you an use for free
 * [favicon html generator](http://realfavicongenerator.net/) - generate the html for favicons, apple touch icons, android icons, windows tiles and more.
 * [icomoon](https://icomoon.io/) - create a custom iconfont by picking from loads of icon sets.
 * [spritebox](http://www.spritebox.net/) - image sprite css generator.
+* [clippy](http://bennettfeely.com/clippy/) - clip path generator.
 
 ##### People
 
