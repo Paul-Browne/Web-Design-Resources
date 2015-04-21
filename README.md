@@ -91,8 +91,10 @@ places to get fonts, some free, some not free.
 * [font space](http://www.fontspace.com/popular/fonts)
 
 ##### Stock photography
-##### Other
 
+* []()
+
+##### Other
 
 * [CDN](https://cdnjs.com/) - you'll probably find that javascript plugin that you use is also hosted here
 * [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
@@ -102,3 +104,4 @@ places to get fonts, some free, some not free.
 * [favicon html generator](http://realfavicongenerator.net/) - generate the html for favicons, apple touch icons, android icons, windows tiles and more.
 * [Evanto](http://market.envato.com/) - Lots and lots of resources, but you have to pay for them.
 * [chrome experiments](https://www.chromeexperiments.com/) - all kinds of funky stuff.
+* [muz.li](http://muz.li/) - chrome extension - design inspiration for your home page tab.
