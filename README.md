@@ -11,12 +11,14 @@ Test the performance of you site.
 
 ##### Testing - cross browser
 
-* [can i use](http://caniuse.com/) - reference
-* [quirksmode](http://www.quirksmode.org/compatibility.html) - reference
+Use the cloud to see what you site looks like on other devices and browsers
+
 * [browserstack](http://www.browserstack.com/)
 * [browsertap](http://browsertap.com/)
 * [saucelabs](http://saucelabs.com/)
 * [cross browser testing](http://crossbrowsertesting.com/)
+* [can i use](http://caniuse.com/) - reference
+* [quirksmode](http://www.quirksmode.org/compatibility.html) - reference
 
 ##### Minify/Uglify and Beautify
 
@@ -41,7 +43,7 @@ Test your script and/or style snippets, include external libraries, save, share,
 
 Sites that show you how to do stuff, usually with demos.
 
-* [Codrops](http://tympanus.net/codrops/)
+* [codrops](http://tympanus.net/codrops/)
 * [codecademy](http://www.codecademy.com/)
 * [codeschool](https://www.codeschool.com/)
 * [tutorialzine](http://tutorialzine.com/)
@@ -133,7 +135,7 @@ images you can use for free
 * [lorempixel](http://lorempixel.com/) - placeholder images.
 * [placekitten](https://placekitten.com/) - placeholder images - just kittens.
 * [placehold.it](http://placehold.it/) - solid color placeholder images with dimensions. 
-* [favicon html generator](http://realfavicongenerator.net/) - generate the html for favicons, apple touch icons, android icons, windows tiles and more.
+* [favicon html generator](http://realfavicongenerator.net/) - generate the html for favicons, apple touch icons, win tiles...
 * [icomoon](https://icomoon.io/) - create a custom iconfont by picking from loads of icon sets.
 * [spritebox](http://www.spritebox.net/) - image sprite css generator.
 * [clippy](http://bennettfeely.com/clippy/) - clip path generator.
