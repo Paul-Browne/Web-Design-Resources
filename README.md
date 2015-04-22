@@ -109,9 +109,13 @@ images you can use for free
 
 * [the stocks](http://thestocks.im/)
 * [unsplash](https://unsplash.com/)
+* [re:splashed](http://www.resplashed.com/)
 * [pixabay](http://pixabay.com/)
 * [magdeleine](http://magdeleine.co/browse/)
 * [gratisography](http://www.gratisography.com/)
+* [rgb stock](http://www.rgbstock.com/)
+* [raumrot](http://raumrot.com/)
+* [canva](https://designschool.canva.com/blog/free-stock-photos/) - If you didn't find what you were looking for, heres a list of over 70 websites that provide stock photography.
 
 ##### Conversion
 
@@ -155,10 +159,14 @@ people who know more about the web than I.
 
 * [jpeg-optimizer](http://jpeg-optimizer.com/) - compress and/or shrink jpegs.
 * [tinypng](https://tinypng.com/) - same as above but for .png's
+* [compressor](https://compressor.io/) - .png, .jpg, .svg nd .gif
+* [compress now](http://compressnow.com/) - similar to the one above.
+* [svg-editor](http://petercollingridge.appspot.com/svg-editor) - amazing svg editor and compressor.
 * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - the original boilerplate.
 * [cdnjs](https://cdnjs.com/) - you'll probably find that javascript plugin that you use is also hosted here.
 * [RawGit](https://rawgit.com/) - RawGit serves raw files directly from GitHub with proper Content-Type headers.
 * [nylllon](http://nylllon.com/) - A collection of useful threads for designers. kinda like this repo.
+* [web field manual](http://webfieldmanual.com/) - A curated list of resources - again, kinda like this.
 * [stack overflow](http://stackoverflow.com/) - Stuck? get your questions answered here.
 * [screen sizes](http://screensiz.es/phone) - A list of screen sizes.
 * [screen queries](http://beta.screenqueri.es/) - a bit like chrome dev tools device emulation.
