@@ -176,4 +176,5 @@ people who know more about the web than I.
 * [Evanto](http://market.envato.com/) - Lots and lots of resources, but you have to pay for them.
 * [chrome experiments](https://www.chromeexperiments.com/) - all kinds of funky stuff.
 * [muz.li](http://muz.li/) - chrome extension - design inspiration for your home page tab.
+* [30 css selectors](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048) - Embarrassingly I consult this list at least twice a week!
 
