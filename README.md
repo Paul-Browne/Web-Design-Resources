@@ -38,6 +38,7 @@ Test your script and/or style snippets, include external libraries, save, share,
 * [jsfiddle](http://jsfiddle.net/)
 * [json editor online](http://www.jsoneditoronline.org/) - json sandbox
 * [regexr](http://www.regexr.com/) - ReGex sandbox
+* [extendsclass](https://extendsclass.com/sqlite-browser.html) - SQLite sandbox
  
 ##### Tutorials and References
 
